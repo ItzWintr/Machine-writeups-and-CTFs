@@ -12,6 +12,7 @@ For **educational purposes only**.
 |----------|-----|
 | Keeper   | [KEEPER.pdf](PDFs/KEEPER.pdf) | 
 | Nibbles  | [NIBBLES.pdf](PDFs/NIBBLES.pdf) | 
+| Lame     | [LAME(2025).pdf](PDFs/LAME(2025).pdf) | 
 
 ## ⚡ Repo Details
 
