@@ -10,8 +10,8 @@ For **educational purposes only**.
 
 | Machine  | PDF |
 |----------|-----|
-| Keeper   | [KEEPER.pdf](PDFs/KEEPER.pdf) |
-| Nibbles  | [NIBBLES.pdf](PDFs/NIBBLES.pdf) |
+| Keeper   | [KEEPER.pdf](PDFs/KEEPER.pdf) | ![Web](https://img.shields.io/badge/Skill-Web-red) ![Enum](https://img.shields.io/badge/Skill-Enumeration-blue) ![PrivEsc](https://img.shields.io/badge/Skill-PrivEsc-orange) |
+| Nibbles  | [NIBBLES.pdf](PDFs/NIBBLES.pdf) | ![Scripting](https://img.shields.io/badge/Skill-Scripting-purple) ![Enum](https://img.shields.io/badge/Skill-Enumeration-blue) ![PrivEsc](https://img.shields.io/badge/Skill-PrivEsc-orange) |
 
 ## ⚡ Repo Details
 
