@@ -1,7 +1,10 @@
 # HTB Writeups by Winter
 
-This repository contains my Hack The Box writeups in PDF format.  
-All writeups are for educational purposes only.
+💀 **Winter's Hack The Box Collection** 💀  
+All writeups are in PDF format. No scripts, no images, pure walkthroughs.  
+For **educational purposes only**.
+
+---
 
 ## Machines Solved
 
@@ -9,3 +12,13 @@ All writeups are for educational purposes only.
 |----------|-----|
 | Keeper   | [KEEPER.pdf](PDFs/KEEPER.pdf) |
 | Nibbles  | [NIBBLES.pdf](PDFs/NIBBLES.pdf) |
+
+## ⚡ Repo Details
+
+- Only PDFs of writeups. Keep it clean, keep it smart.  
+- Structured for fast browsing and learning.  
+- Educational purpose, nothing illegal.  
+
+---
+
+**Winter** – Cybersecurity Enthusiast | eJPT 
