@@ -13,7 +13,7 @@ For **educational purposes only**.
 | Keeper   | [KEEPER.pdf](PDFs/KEEPER.pdf) | HackTheBox | Easy |
 | Nibbles  | [NIBBLES.pdf](PDFs/NIBBLES.pdf) | HackTheBox | Easy |
 | Lame     | [LAME(2025).pdf](PDFs/LAME(2025).pdf) | HackTheBox | Easy |
-| Anonymous     | [ANONYMOUS_TRYHACKME.pdf](PDFs/ANONYMOUS_TRYHACKME.pdf) | TryHackMe | Medium |
+| Anonymous     | [ANONYMOUS.pdf](PDFs/ANONYMOUS.pdf) | TryHackMe | Medium |
 
 ## ⚡ Repo Details
 
