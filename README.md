@@ -1,6 +1,6 @@
-# HTB Writeups by Winter
+# Writeups by Winter
 
-💀 **Winter's Hack The Box Collection** 💀  
+💀 **Winter's Writeups Collection** 💀  
 All writeups are in PDF format. No scripts, no images, pure walkthroughs.  
 For **educational purposes only**.
 
@@ -8,11 +8,12 @@ For **educational purposes only**.
 
 ## Machines Solved
 
-| Machine  | PDF |
-|----------|-----|
-| Keeper   | [KEEPER.pdf](PDFs/KEEPER.pdf) | 
-| Nibbles  | [NIBBLES.pdf](PDFs/NIBBLES.pdf) | 
-| Lame     | [LAME(2025).pdf](PDFs/LAME(2025).pdf) | 
+| Machine  | PDF | PLATFORM | DIFFICULTY |
+|----------|-----|----------|------------|
+| Keeper   | [KEEPER.pdf](PDFs/KEEPER.pdf) | HackTheBox | Easy |
+| Nibbles  | [NIBBLES.pdf](PDFs/NIBBLES.pdf) | HackTheBox | Easy |
+| Lame     | [LAME(2025).pdf](PDFs/LAME(2025).pdf) | HackTheBox | Easy |
+| Anonymous     | [ANONYMOUS_TRYHACKME.pdf](PDFs/ANONYMOUS_TRYHACKME.pdf) | TryHackMe | Medium |
 
 ## ⚡ Repo Details
 
