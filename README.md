@@ -14,6 +14,7 @@ For **educational purposes only**.
 | Nibbles  | [NIBBLES.pdf](PDFs/NIBBLES.pdf) | HackTheBox | Easy |
 | Lame     | [LAME(2025).pdf](PDFs/LAME(2025).pdf) | HackTheBox | Easy |
 | Anonymous     | [ANONYMOUS.pdf](PDFs/ANONYMOUS.pdf) | TryHackMe | Medium |
+| GoldenEye     | [GOLDENEYE.pdf](PDFs/GOLDENEYE.pdf) | TryHackMe | Medium |
 
 ## ⚡ Repo Details
 
