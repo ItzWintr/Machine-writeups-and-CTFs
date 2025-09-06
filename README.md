@@ -15,6 +15,7 @@ For **educational purposes only**.
 | Lame     | [LAME(2025).pdf](PDFs/LAME(2025).pdf) | HackTheBox | Easy |
 | Anonymous     | [ANONYMOUS.pdf](PDFs/ANONYMOUS.pdf) | TryHackMe | Medium |
 | GoldenEye     | [GOLDENEYE.pdf](PDFs/GOLDENEYE.pdf) | TryHackMe | Medium |
+| Cybercrafted     | [CYBERCRAFTED.pdf](PDFs/CYBERCRAFTED.pdf) | TryHackMe | Medium |
 
 ## ⚡ Repo Details
 
