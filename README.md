@@ -5,7 +5,8 @@ All writeups are in PDF format. No scripts, no images, pure walkthroughs.
 For **educational purposes only**.
 
 ---
-[![TryHackMe Badge](https://tryhackme.com/badges/public-profile/5139471)](https://tryhackme.com/p/5139471)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xWINTER.png" alt="Your Image Badge" />
 
 ---
 
