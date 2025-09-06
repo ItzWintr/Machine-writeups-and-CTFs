@@ -5,7 +5,7 @@ All writeups are in PDF format. No scripts, no images, pure walkthroughs.
 For **educational purposes only**.
 
 ---
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5139471" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme.com/badges/public-profile/5139471)](https://tryhackme.com/p/5139471)
 
 ---
 
