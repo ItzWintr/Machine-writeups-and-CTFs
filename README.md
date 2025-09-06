@@ -5,6 +5,9 @@ All writeups are in PDF format. No scripts, no images, pure walkthroughs.
 For **educational purposes only**.
 
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5139471" style='border:none;'></iframe>
+
+---
 
 ## Machines Solved
 
